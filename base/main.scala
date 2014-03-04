@@ -11,4 +11,3 @@ object Main {
     st.nextToken
   }
 }
-
