@@ -8,6 +8,11 @@ object Main {
     tokenizer.nextToken
   }
 
+  def readInt = readToken.toInt
+
+  // >>>
+  // >>>
+
   def main(args: Array[String]) {
   }
 }
